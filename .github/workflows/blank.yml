@@ -1,0 +1,2 @@
+git remote add amvera https://git.amvera.ru/petroff95zz/test
+git push amvera master
